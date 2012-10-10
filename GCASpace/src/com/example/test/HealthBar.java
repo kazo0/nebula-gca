@@ -12,7 +12,7 @@ public class HealthBar
 	public Rectangle sprite;
     public static HealthBar instance;
     Camera mCamera;
-    private int shipHP;
+    private int shipHP; //dasdasd
     private int maxHP;
     private int curWidth;
     public boolean dec;
