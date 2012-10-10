@@ -9,7 +9,7 @@ import android.util.Log;
 
 public class HealthBar
 {
-	public Rectangle sprite;
+	public Rectangle sprite; //BOO
     public static HealthBar instance;
     Camera mCamera;
     private int shipHP;
